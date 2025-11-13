@@ -1,0 +1,14 @@
+per=int(input("Enter Score: "))
+
+if per>=90:
+    print(per, "Merit")
+elif per>=75:
+    print(per, "Distinction")
+elif per>=60:
+    print(per, "First Class")
+elif per>=50:
+    print(per, "Second Class")
+elif per>=35:
+    print(per, "Third Class")
+else:
+    print(per, "Fail")

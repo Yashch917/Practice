@@ -1,0 +1,3 @@
+Hello, I am Robot 1.
+Hello, I am Robot 2.
+Hello, I am Robot 3.

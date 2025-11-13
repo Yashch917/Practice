@@ -1,0 +1,5 @@
+file=open('Robots.txt', 'r')
+content=file.read()
+print("file content")
+print(content)
+file.close()

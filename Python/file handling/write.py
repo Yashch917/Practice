@@ -1,0 +1,6 @@
+file=open("Robots.txt", "w")
+file.write("Hello, I am Robot 1.")
+file.write("\nHello, I am Robot 2.")
+file.write("\nHello, I am Robot 3.")
+file.close()
+print("Data written to Robots.txt successfully.")
