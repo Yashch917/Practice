@@ -1,0 +1,7 @@
+Name of robot,Robot ID,Task Assigned,Type,Battery Percentage
+uf850,0,pick&place,arm,100
+guard,1,surveillance,amr,85
+carto,2,mapping,drone,67
+uni860,3,welding,arm,100
+maxview,4,videocapturing,drone,64
+kukabot,5,wall cleaning,arm,100
