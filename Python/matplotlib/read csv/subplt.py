@@ -28,5 +28,7 @@ plt.legend(title="Fruits",loc="best")
 
 plt.subplot(2,2,4)
 plt.plot(x,linestyle='dotted',marker='o',color='red')
+
 plt.plot(y,linestyle='dashed',c='#4CAF50',marker='x',linewidth=10)
+
 plt.show()

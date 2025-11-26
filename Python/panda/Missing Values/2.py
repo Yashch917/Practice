@@ -3,6 +3,7 @@
 #fillna() is used to replace missing values (NaN) with a specified value.
 #with some meaningful data.
 import pandas as pd
+
 df=pd.DataFrame({
     "Name":[None,"Ravi","Prasad","Priya"],
     "Age":[21,None,22,20],

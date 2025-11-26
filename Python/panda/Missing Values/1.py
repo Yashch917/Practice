@@ -11,6 +11,7 @@
 # Here, Ravi’s Age and Sneha’s Marks are missing → NaN
 
 import pandas as pd
+
 df=pd.DataFrame({
     "Name":["Amit","Ravi","Prasad","Priya"],
     "Age":[21,None,22,20],
